@@ -1,7 +1,7 @@
 # itsbrianlou.com
 
-Brian Lou 的個人首頁，一頁純靜態網頁（HTML + CSS），不需要任何框架或 build。
-用來示範：把架在 GitHub Pages 或 Vercel 上的網站接上自己的網域。
+Brian Lou（USC Data Science 學生）的個人作品集網頁：首屏、About、Skills、Projects、Contact，單頁純靜態（HTML + CSS + 內嵌 SVG），不需要任何框架、build 或外部資源，深色模式和手機版都有。
+內容是示範用途的虛構作品集，用來示範：把架在 GitHub Pages 或 Vercel 上的網站接上自己的網域。
 
 ## 部署
 
